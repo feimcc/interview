@@ -25,3 +25,7 @@ Please contribute to this repository to help it make better. Any change like new
 * Go to any program and run that program
 * Go to any test and run the junit test.
 * Run ./gradlew build to create classes, run tests and create jar.
+
+Wo
+So
+Nice
